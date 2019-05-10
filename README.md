@@ -2,7 +2,7 @@
 
 * [HOG2 map to LCT format converter.](#HOG2toLCT)
 
-	* [Linux Setup](#linux_setup)
+	* [Setup](#setup)
 	* [Project Organization](#p_organization)
 	* [Contact](#contact)
 
@@ -16,7 +16,7 @@ The LCT file format can be loaded by the Triplanner dynamic library with C/C++ A
 [Back to Table of contents](#toc)
 
 
-## <a name="linux_setup">Linux Setup
+## <a name="setup">Setup
 
 ###### Build 
 
