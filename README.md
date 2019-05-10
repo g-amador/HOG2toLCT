@@ -1,6 +1,6 @@
 # <a name="toc">Table of contents 
 
-* [HOG2 map to LCT format converter.](#HOG2toLCT)
+* [HOG2 map to LCT format converter](#HOG2toLCT)
 
 	* [Setup](#setup)
 	* [Project Organization](#p_organization)
