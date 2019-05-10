@@ -7,7 +7,7 @@
 	* [Contact](#contact)
 
 
-# <a name="HOG2toLCT">HOG2 map to LCT format converter.
+# <a name="HOG2toLCT">HOG2 map to LCT format converter
 
 
 This project is a converter from HOG2 maps (https://digitalcommons.du.edu/gridmaps2D/) into the LCT file format.
@@ -30,7 +30,7 @@ In the terminal inside the project main folder, run:
 
 **./HOG2toLCT "assets/HOG2/DragonAgeOrigins/map/arena2.map" "assets/HOG2/DragonAgeOrigins/map/arena2.lct**
 
-Note: some HOG2 map files are provied in the assets folder.
+**Note:** some HOG2 map files are provied in the assets folder.
 
 [Back to Table of contents](#toc)
 
@@ -41,7 +41,7 @@ Note: some HOG2 map files are provied in the assets folder.
     .
     ├── assets                 # HOG2 maps sample files. 
     ├── src                    # Converter source code.
-    ├── build & run.sh         # Linux shell script to compile and run the converter, for all maps in the assets folder.
+    ├── build & run.sh         # Linux shell script to compile and run the converter, for all maps in the **assets** folder.
     ├── LICENSE
     └── README.md
 
