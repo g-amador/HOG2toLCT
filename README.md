@@ -21,11 +21,13 @@ The LCT file format can be loaded by the Triplanner dynamic library with C/C++ A
 ###### Build 
 
 In the terminal, inside the project main folder, run:
+
 **g++ src/HOG2toLCT.cpp -o HOG2toLCT**
 
 ###### Run
 
-In the terminal run:
+In the terminal inside the project main folder, run:
+
 **./HOG2toLCT "assets/HOG2/DragonAgeOrigins/map/arena2.map" "assets/HOG2/DragonAgeOrigins/map/arena2.lct**
 
 Note: some HOG2 map files are provied in the assets folder.
