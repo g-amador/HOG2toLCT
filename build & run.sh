@@ -10,7 +10,7 @@
 #Cyan        36
 #Light Gray  37
 
-g++ HOG2toLCT.cpp -o HOG2toLCT
+g++ src/HOG2toLCT.cpp -o HOG2toLCT
 
 for filename in assets/HOG2/DragonAgeOrigins/map/*.map; do
     ./HOG2toLCT "$filename" "${filename%???}lct"
