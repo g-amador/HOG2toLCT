@@ -37,11 +37,11 @@ Note: some HOG2 map files are provied in the assets folder.
 
 
     .
-    ├── assets                                          # HOG2 maps sample files. 
-    ├── src                                             # Converter source code.
-    ├── build & run.sh                                  # Linux shell script to compile and run the converter, for all maps in the assets folder.
+    ├── assets                 # HOG2 maps sample files. 
+    ├── src                    # Converter source code.
+    ├── build & run.sh         # Linux shell script to compile and run the converter, for all maps in the assets folder.
     ├── LICENSE
-    └── README.md                          
+    └── README.md
 
 [Back to Table of contents](#toc)
 
